@@ -11,3 +11,5 @@ Project effort, activities involved in the branding, organization, training, and
 ```
 Make this a quote or highlighted benefit to having this UI/UX (design audit, heuristic review, other activity) 
 ```
+
+![GitHub logo](https://github.com/images/logos/octocat-logo-1200x630.png)
