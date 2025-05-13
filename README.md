@@ -3,7 +3,7 @@
 An advocate for User Centered Design and applying Human Factors evaluation methodologies to uncover inefficiencies (wicked problems) and enhance the experiences that are brought to life. 
 
 ## United States Army, Artificial Intelligence Integration Center (AI2C)
-The management and facilitation of product experiences involving the use of artificial intelligence and predictive tools was the focus of my work. Advocating early in the process to perform exploratory procedures, involving design audits and planning for heuristic reviews for the portfolio of AI2C product initiatives.  
+The management and facilitation of product experiences involving the use of artificial intelligence and predictive feature rich experience was the focus of my work. Advocating early in the process to perform exploratory methods, our focus was in performing design audits to existing or in-development products as well as the preparation and conducting of heuristic reviews for the portfolio of AI2C products.   
 
 **🚨 CHALLENGE**
 
