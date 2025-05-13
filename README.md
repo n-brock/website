@@ -1,6 +1,6 @@
 ![(https://github.com/assets/images/favicon.ico)](https://github.com/n-brock/website/blob/main/favicon.ico)
 
-### NICK BROCK
+# NICK BROCK
   <a href="https://excalidraw.com">About</a> |
   <a href="https://plus.excalidraw.com/blog">ShapeYourDesign</a> |
   <a href="https://docs.excalidraw.com">Freelance Opportunities</a> |
