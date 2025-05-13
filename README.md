@@ -1,3 +1,4 @@
+![(https://github.com/assets/images/favicon.ico)](https://github.com/n-brock/website/blob/main/favicon.ico)
 # Nick Brock
 personal website to showcase UI/UX samples
 
@@ -30,6 +31,3 @@ Educating about the use of Medical Devices and Ergonomics in the workplace.
 - https://www.fda.gov/media/80481/download
 - https://www.uxfirm.com/demystifying-human-factors-validation
 
-
-
-![(https://github.com/assets/images/favicon.ico)](https://github.com/n-brock/website/blob/main/favicon.ico)
