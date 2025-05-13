@@ -7,6 +7,7 @@
   <a href="mailto:nickolas.brock@gmail.com">Keep In Touch</a>
 
 ---
+
 An advocate for User Centered Design and applying Human Factors evaluation methodologies to uncover inefficiencies (wicked problems) and enhance the experiences that are brought to life. 
 
 ## United States Army, Artificial Intelligence Integration Center (AI2C)
