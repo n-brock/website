@@ -19,14 +19,16 @@ Project effort, ux activities involved for the Design Thinking and synthesizing 
 Make this a quote or highlighted benefit to having this UI/UX (design audit, heuristic review, other activity) 
 ```
 
+
+
 ## Center for Devices and Radiological Health, Office of Device Evaluation
 **CHALLENGE**
 Educating about the use of Medical Devices and Ergonomics in the workplace.
 
 
 **Reference Material**
-https://www.fda.gov/media/80481/download
-https://www.uxfirm.com/demystifying-human-factors-validation
+- https://www.fda.gov/media/80481/download
+- https://www.uxfirm.com/demystifying-human-factors-validation
 
 
 
