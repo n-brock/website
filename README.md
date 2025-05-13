@@ -5,7 +5,7 @@
 <h4 align="center">
   <a href="https://excalidraw.com">About</a> |
   <a href="https://plus.excalidraw.com/blog">ShapeYourDesign</a> |
-  <a href="https://docs.excalidraw.com">Graphic Design</a> |
+  <a href="https://docs.excalidraw.com">Freelance Opportunities</a> |
   <a href="mailto:nickolas.brock@gmail.com">Keep In Touch</a>
 </h4>
 ---
