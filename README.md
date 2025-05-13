@@ -32,4 +32,4 @@ Educating about the use of Medical Devices and Ergonomics in the workplace.
 
 
 
-![GitHub logo](https://github.com/images/logos/octocat-logo-1200x630.png)
+![GitHub logo](https://github.com/assets/images/favicon.ico)
