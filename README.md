@@ -32,4 +32,4 @@ Educating about the use of Medical Devices and Ergonomics in the workplace.
 
 
 
-![GitHub logo](https://github.com/assets/images/favicon.ico)
+![(https://github.com/assets/images/favicon.ico)](https://github.com/n-brock/website/blob/main/favicon.ico)
