@@ -1,6 +1,6 @@
 ![(https://github.com/assets/images/favicon.ico)](https://github.com/n-brock/website/blob/main/favicon.ico)
 # Nick Brock
-personal website to showcase UI/UX samples
+An advocate for User Centered Design and applying Human Factors evaluation methodologies to uncover inefficiencies and enhance the experiences that are brought to life. 
 
 
 
