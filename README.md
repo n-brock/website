@@ -2,7 +2,7 @@
 # Nick Brock
 
 
-<h4 align="center">
+<h4 align="right">
   <a href="https://excalidraw.com">About</a> |
   <a href="https://plus.excalidraw.com/blog">ShapeYourDesign</a> |
   <a href="https://docs.excalidraw.com">Freelance Opportunities</a> |
