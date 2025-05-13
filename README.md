@@ -1,14 +1,11 @@
 ![(https://github.com/assets/images/favicon.ico)](https://github.com/n-brock/website/blob/main/favicon.ico)
 
-<h4>
-  NICK BROCK
-  <p align="right">
+### NICK BROCK
   <a href="https://excalidraw.com">About</a> |
   <a href="https://plus.excalidraw.com/blog">ShapeYourDesign</a> |
   <a href="https://docs.excalidraw.com">Freelance Opportunities</a> |
   <a href="mailto:nickolas.brock@gmail.com">Keep In Touch</a>
-  </p>
-</h4>
+
 ---
 An advocate for User Centered Design and applying Human Factors evaluation methodologies to uncover inefficiencies (wicked problems) and enhance the experiences that are brought to life. 
 
