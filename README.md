@@ -1,5 +1,14 @@
 ![(https://github.com/assets/images/favicon.ico)](https://github.com/n-brock/website/blob/main/favicon.ico)
 # Nick Brock
+
+
+<h4 align="center">
+  <a href="https://excalidraw.com">About</a> |
+  <a href="https://plus.excalidraw.com/blog">ShapeYourDesign</a> |
+  <a href="https://docs.excalidraw.com">Graphic Design</a> |
+  <a href="mailto:nickolas.brock@gmail.com">Keep In Touch</a>
+</h4>
+---
 An advocate for User Centered Design and applying Human Factors evaluation methodologies to uncover inefficiencies (wicked problems) and enhance the experiences that are brought to life. 
 
 ## United States Army, Artificial Intelligence Integration Center (AI2C)
