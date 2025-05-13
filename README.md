@@ -10,7 +10,7 @@ The Office of Laboratory Science and Safety is responsible for promoting and str
 
 **🚨 CHALLENGE**
 
-**My role**
+**👨‍🔧 My role**
 
 To plan, conduct, evaluate a Design Thinking session to uncover wicked problems
 
