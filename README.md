@@ -1,6 +1,6 @@
 ![(https://github.com/assets/images/favicon.ico)](https://github.com/n-brock/website/blob/main/favicon.ico)
 
-<h4 align="right">
+<h4>
   NICK BROCK
   <p align="right">
   <a href="https://excalidraw.com">About</a> |
