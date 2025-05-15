@@ -11,11 +11,14 @@
 An advocate for User Centered Design and applying Human Factors evaluation methodologies to uncover inefficiencies (wicked problems) and enhance the experiences that are brought to life. 
 
 ## United States Army, Artificial Intelligence Integration Center (AI2C)
-The management and facilitation of product experiences involving the use of artificial intelligence and predictive feature rich experience was the focus of my work. Advocating early in the process to perform exploratory methods, our focus was in performing design audits to existing or in-development products as well as the preparation and conducting of heuristic reviews for the portfolio of AI2C products.   
 
-**🚨 CHALLENGE**
+The Artificial Intelligence Integration Center (AI2C) is to connect the Army with the broader AI community, identify and develop new AI technologies, and apply them to address challenges in the field. It aims to accelerate the development and deployment of AI solutions to improve decision-making, enhance warfighting capabilities, and advance the Army's readiness.   
+
+**🚨 CHALLENGE 🚨**
 
 **👨‍🔧 My role**
+
+My work focused on the management and facilitation of product experiences involving the use of artificial intelligence and predictive feature rich experience. Advocating early in the process to perform exploratory methods, our focus was in performing design audits to existing or in-development products as well as the preparation and conducting of heuristic reviews for the portfolio of AI2C products. 
 
 <a href="project1.md">Read More about Project</a>
 
@@ -42,6 +45,9 @@ To plan, conduct, and evaluate a Design Thinking session, later to assist in the
 2. Improved Laboratory Quality, OLSS also aims to improve the quality and integrity of laboratory data and results.
 Reliable and high-quality data can lead to better informed regulatory decisions and potentially more efficient processes. 
 3. Potential Cost Savings, While not its primary goal, OLSS's focus on safety and quality could contribute to cost savings in the long run by minimizing accidents and improving the reliability of laboratory work. 
+
+
+---
 
 **Published Reference Material**
 - https://www.fda.gov/files/about%20fda/published/Office-of-Laboratory-Science-and-Safety-2017-2022-Strategic-Plan.pdf
