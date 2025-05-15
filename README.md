@@ -1,9 +1,9 @@
 ![(https://github.com/assets/images/favicon.ico)](https://github.com/n-brock/website/blob/main/favicon.ico)
 
 # NICK BROCK
-  <a href="https://excalidraw.com">About</a> |
-  <a href="https://plus.excalidraw.com/blog">ShapeYourDesign</a> |
-  <a href="https://docs.excalidraw.com">Freelance Opportunities</a> |
+  <a href="#">About</a> |
+  <a href="#">ShapeYourDesign</a> |
+  <a href="#">Freelance Opportunities</a> |
   <a href="mailto:nickolas.brock@gmail.com">Keep In Touch</a>
 
 ---
@@ -19,16 +19,30 @@ The management and facilitation of product experiences involving the use of arti
 
 <a href="project1.md">Read More about Project</a>
 
-## Office of Laboratory Science and Safety
+## Food and Drug Administration, Office of Laboratory Science and Safety (OLSS)
 
-The Office of Laboratory Science and Safety is responsible for promoting and strengthening laboratory safety and scientific excellence within the Centers for Disease Control and Prevention (CDC). It provides cross-cutting laboratory products, services, and systems (quality, safety, informatics, workforce, response readiness) support for CDC laboratories that conduct research, surveillance, and routine and emergency diagnostic testing, and develop diagnostic tests; (2) collaborates with the nation's laboratories (public health, clinical, industry, academic, and other government) to ensure scientifically advanced, timely, and efficient laboratory response and diagnostic testing; 
+```
+Time Period: 6 months
+Focus: User Interface Design, User Experience Research, Design Thinking, Graphic Design 
+```
 
-**🚨 CHALLENGE**
+The FDA's Office of Laboratory Science and Safety (OLSS) was established to enhance laboratory safety and science within the FDA. The Office is responsible for promoting and strengthening laboratory safety and scientific excellence within the Centers for Disease Control and Prevention (CDC). It provides cross-cutting laboratory products, services, and systems (quality, safety, informatics, workforce, response readiness) support for CDC laboratories that conduct research, surveillance, and routine and emergency diagnostic testing, and develop diagnostic tests; (2) collaborates with the nation's laboratories (public health, clinical, industry, academic, and other government) to ensure scientifically advanced, timely, and efficient laboratory response and diagnostic testing; 
+
+**🚨 CHALLENGE 🚨**
+The office was established in 
+
+
 
 **👨‍🔧 My role**
 
 To plan, conduct, and evaluate a Design Thinking session, later to assist in the creation of services and systems that will track the quality, safety, informatics, workforce, and response readiness.
 
+### Future benefits of the efficiency established to enhance laboratory safety and science
+
+1.Reduced Incidents & Improved Efficiency, by focusing on workplace health and safety, laboratory safety, and quality, OLSS aims to minimize risks and potential incidents. A safer and more secure laboratory environment could translate to fewer disruptions, less downtime, and potentially lower costs related to accidents, thus indirectly supporting government efficiency. 
+2. Improved Laboratory Quality, OLSS also aims to improve the quality and integrity of laboratory data and results.
+Reliable and high-quality data can lead to better informed regulatory decisions and potentially more efficient processes. 
+3. Potential Cost Savings, While not its primary goal, OLSS's focus on safety and quality could contribute to cost savings in the long run by minimizing accidents and improving the reliability of laboratory work. 
 
 **Published Reference Material**
 - https://www.fda.gov/files/about%20fda/published/Office-of-Laboratory-Science-and-Safety-2017-2022-Strategic-Plan.pdf
@@ -45,9 +59,11 @@ Make this a quote or highlighted benefit to having this UI/UX (design audit, heu
 
 
 ## Center for Devices and Radiological Health (CDRH), Office of Device Evaluation
-**CHALLENGE**
-Educating about the use of Medical Devices and Ergonomics in the workplace.
 
+**🚨 CHALLENGE**
+Educating about the use of Medical Devices and Ergonomics in the workplace through the use of analyzing and applying human factors 
+
+**👨‍🔧 My role**
 
 **Published Reference Material**
 - https://www.fda.gov/media/80481/download (Report Analysis)
