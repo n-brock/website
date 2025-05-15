@@ -37,7 +37,7 @@ The office was established in 2017 to identify, investigate, and bring safety th
 
 **👨‍🔧 My role**
 
-To plan, conduct, and evaluate a Design Thinking session, later to assist in the creation of services and systems that will track the quality, safety, informatics, workforce, and response readiness.
+To plan, conduct, and evaluate a Design Thinking session, later to assist in the creation of services and systems that will track the quality, safety, informatics, workforce, and response readiness. The project effort, ux activities involved for the Design Thinking and synthesizing of information gathered during a session held. 
 
 **Future benefits of the efficiency established to enhance laboratory safety and science**
 
@@ -47,22 +47,20 @@ Reliable and high-quality data can lead to better informed regulatory decisions 
 3. Potential Cost Savings, While not its primary goal, OLSS's focus on safety and quality could contribute to cost savings in the long run by minimizing accidents and improving the reliability of laboratory work. 
 
 
----
-
-**Published Reference Material**
-- https://www.fda.gov/files/about%20fda/published/Office-of-Laboratory-Science-and-Safety-2017-2022-Strategic-Plan.pdf
-
-
-Project effort, ux activities involved for the Design Thinking and synthesizing of information gathered during one of the sessions held. 
-
 **What drives innovation for a product?** 
 
 It involves having an understanding of communicating in a omni-channel approach, for users and their needs, the team and cross-functional collaboration, 
+
 
 ```
 Make this a quote or highlighted benefit to having this UI/UX (design audit, heuristic review, other activity) 
 ```
 
+
+---
+
+**Published Reference Material**
+- https://www.fda.gov/files/about%20fda/published/Office-of-Laboratory-Science-and-Safety-2017-2022-Strategic-Plan.pdf
 
 
 ## Center for Devices and Radiological Health (CDRH), Office of Device Evaluation
