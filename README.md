@@ -29,9 +29,8 @@ Focus: User Interface Design, User Experience Research, Design Thinking, Graphic
 The FDA's Office of Laboratory Science and Safety (OLSS) was established to enhance laboratory safety and science within the FDA. The Office is responsible for promoting and strengthening laboratory safety and scientific excellence within the Centers for Disease Control and Prevention (CDC). It provides cross-cutting laboratory products, services, and systems (quality, safety, informatics, workforce, response readiness) support for CDC laboratories that conduct research, surveillance, and routine and emergency diagnostic testing, and develop diagnostic tests; (2) collaborates with the nation's laboratories (public health, clinical, industry, academic, and other government) to ensure scientifically advanced, timely, and efficient laboratory response and diagnostic testing; 
 
 **🚨 CHALLENGE 🚨**
-The office was established in 
 
-
+The office was established in 2017 to identify, investigate, and bring safety through the use of to the labortories throughout the United States. This multifaceted approach, focusing on organizational structures, best practices, incident investigation, and training, as well as creating a culture of safety and accountability would be the drivers for a safer experience within the laboratories.
 
 **👨‍🔧 My role**
 
