@@ -36,7 +36,7 @@ The office was established in 2017 to identify, investigate, and bring safety th
 
 To plan, conduct, and evaluate a Design Thinking session, later to assist in the creation of services and systems that will track the quality, safety, informatics, workforce, and response readiness.
 
-### Future benefits of the efficiency established to enhance laboratory safety and science
+**Future benefits of the efficiency established to enhance laboratory safety and science**
 
 1.Reduced Incidents & Improved Efficiency, by focusing on workplace health and safety, laboratory safety, and quality, OLSS aims to minimize risks and potential incidents. A safer and more secure laboratory environment could translate to fewer disruptions, less downtime, and potentially lower costs related to accidents, thus indirectly supporting government efficiency. 
 2. Improved Laboratory Quality, OLSS also aims to improve the quality and integrity of laboratory data and results.
