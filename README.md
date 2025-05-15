@@ -60,6 +60,7 @@ Make this a quote or highlighted benefit to having this UI/UX (design audit, heu
 ## Center for Devices and Radiological Health (CDRH), Office of Device Evaluation
 
 **🚨 CHALLENGE**
+
 Educating about the use of Medical Devices and Ergonomics in the workplace through the use of analyzing and applying human factors 
 
 **👨‍🔧 My role**
