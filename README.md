@@ -1,4 +1,4 @@
-![(https://github.com/favicon.ico)](https://github.com/n-brock/website/blob/main/favicon.ico)
+![(https://github.com/favicon.ico)](https://github.com/n-brock/favicon.ico)
 
 # NICK BROCK
   <a href="#">About</a> |
