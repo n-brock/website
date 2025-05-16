@@ -1,5 +1,3 @@
-![(https://github.com/n-brock/website/favicon.ico)](https://github.com/n-brock/website/favicon.ico)
-
 # NICK BROCK
   <a href="#">About</a> |
   <a href="#">ShapeYourDesign</a> |
