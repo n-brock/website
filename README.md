@@ -61,6 +61,19 @@ Make this a quote or highlighted benefit to having this UI/UX (design audit, heu
 - https://www.fda.gov/files/about%20fda/published/Office-of-Laboratory-Science-and-Safety-2017-2022-Strategic-Plan.pdf
 
 
+
+## Understanding Precision Medicine
+
+**🚨 CHALLENGE 🚨**
+
+Precision Medicine was once a topic that somewhat confused folks when talking about the value, uses, and benefits to you and me. Informing and making sense of this was at the forefront of this design strategy session.   
+
+**👨‍🔧 My role**
+
+Using a mix of User Research and User Interface Design and Development would help with providing stakeholders with a clear direction and path for a successful launch and distribution to various individuals needing more information on 'What Precision Medicine is?'.
+
+___
+
 ## Center for Devices and Radiological Health (CDRH), Office of Device Evaluation
 
 **🚨 CHALLENGE 🚨**
