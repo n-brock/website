@@ -76,6 +76,12 @@ ___
 
 ## Understanding Precision Medicine
 
+```
+Time Period: 1 yr
+Year: 2020
+Focus: User Interface Design, User Experience Research, Design Thinking, Front-End Development (HTML5, CSS3)
+```
+
 **🚨 CHALLENGE 🚨**
 
 Precision Medicine was once a topic that somewhat confused folks when talking about the value, uses, and benefits to you and me. Informing and making sense of this was at the forefront of this design strategy session.   
@@ -89,13 +95,19 @@ ___
 
 ## Center for Devices and Radiological Health (CDRH), Office of Device Evaluation
 
+```
+Time Period: 1 yr
+Year: 2019
+Focus: Design Thinking, User Expericne Research, Graphic Design
+```
+
 **🚨 CHALLENGE 🚨**
 
 Educating about the use of Medical Devices and Ergonomics in the workplace through the use of analyzing and applying human factors 
 
 **👨‍🔧 My role**
 
-**Published Reference Material**
-- https://www.fda.gov/media/80481/download (Report Analysis)
-- https://www.uxfirm.com/demystifying-human-factors-validation
+With the education and analysis provided through use of Heuristic Reviews and the application of Human Factors, the need to provide material that educated the general audience on the use of ergonomic equipment in the workplace (laboratory settings) was the next step. 
 
+**Reference Material**
+- https://www.fda.gov/media/80481/download (Report Analysis)
