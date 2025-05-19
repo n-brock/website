@@ -7,8 +7,15 @@
 ---
 
 An advocate for User Centered Design and applying Human Factors evaluation methodologies to uncover inefficiencies (wicked problems) and enhance the experiences that are brought to life. 
-
+___
+<br />
 ## United States Army, Artificial Intelligence Integration Center (AI2C)
+
+```
+Time Period: 3 yrs
+Year: 2022-2025
+Focus: User Interface Design, User Experience Research, Design Thinking 
+```
 
 The Artificial Intelligence Integration Center (AI2C) is to connect the Army with the broader AI community, identify and develop new AI technologies, and apply them to address challenges in the field. It aims to accelerate the development and deployment of AI solutions to improve decision-making, enhance warfighting capabilities, and advance the Army's readiness.   
 
@@ -19,11 +26,13 @@ The Artificial Intelligence Integration Center (AI2C) is to connect the Army wit
 My work focused on the management and facilitation of product experiences involving the use of artificial intelligence and predictive feature rich experience. Advocating early in the process to perform exploratory methods, our focus was in performing design audits to existing or in-development products as well as the preparation and conducting of heuristic reviews for the portfolio of AI2C products. 
 
 <a href="project1.md">Read More about Project</a>
-
+___
+<br />
 ## Food and Drug Administration, Office of Laboratory Science and Safety (OLSS)
 
 ```
 Time Period: 6 months
+Year: 2020
 Focus: User Interface Design, User Experience Research, Design Thinking, Graphic Design 
 ```
 
@@ -60,8 +69,8 @@ Make this a quote or highlighted benefit to having this UI/UX (design audit, heu
 **Published Reference Material**
 - https://www.fda.gov/files/about%20fda/published/Office-of-Laboratory-Science-and-Safety-2017-2022-Strategic-Plan.pdf
 
-
-
+___
+<br />
 ## Understanding Precision Medicine
 
 **🚨 CHALLENGE 🚨**
@@ -73,7 +82,6 @@ Precision Medicine was once a topic that somewhat confused folks when talking ab
 Using a mix of User Research and User Interface Design and Development would help with providing stakeholders with a clear direction and path for a successful launch and distribution to various individuals needing more information on 'What Precision Medicine is?'.
 
 ___
-
 <br />
 
 ## Center for Devices and Radiological Health (CDRH), Office of Device Evaluation
