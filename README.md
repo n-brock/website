@@ -9,6 +9,7 @@
 An advocate for User Centered Design and applying Human Factors evaluation methodologies to uncover inefficiencies (wicked problems) and enhance the experiences that are brought to life. 
 ___
 <br />
+
 ## United States Army, Artificial Intelligence Integration Center (AI2C)
 
 ```
@@ -28,6 +29,7 @@ My work focused on the management and facilitation of product experiences involv
 <a href="project1.md">Read More about Project</a>
 ___
 <br />
+
 ## Food and Drug Administration, Office of Laboratory Science and Safety (OLSS)
 
 ```
@@ -71,6 +73,7 @@ Make this a quote or highlighted benefit to having this UI/UX (design audit, heu
 
 ___
 <br />
+
 ## Understanding Precision Medicine
 
 **🚨 CHALLENGE 🚨**
