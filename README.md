@@ -29,6 +29,7 @@ The Artificial Intelligence Integration Center (AI2C) is to connect the Army wit
 My work focused on the management and facilitation of product experiences involving the use of artificial intelligence and predictive feature rich experience. Advocating early in the process to perform exploratory methods, our focus was in performing design audits to existing or in-development products as well as the preparation and conducting of heuristic reviews for the portfolio of AI2C products. 
 
 <a href="project1.md">Read More about Project</a>
+
 ___
 <br />
 
