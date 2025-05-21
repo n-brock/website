@@ -51,10 +51,12 @@ To plan a learning experiment, conduct, and evaluate the session using a series 
 
 *Future benefits of the efficiency established to enhance laboratory safety and science*
 <ol>
--Reduced Incidents & Improved Efficiency, by focusing on workplace health and safety, laboratory safety, and quality, OLSS aims to minimize risks and potential incidents. A safer and more secure laboratory environment could translate to fewer disruptions, less downtime, and potentially lower costs related to accidents, thus indirectly supporting government efficiency. 
--Improved Laboratory Quality, OLSS also aims to improve the quality and integrity of laboratory data and results.
+  1.Reduced Incidents & Improved Efficiency, by focusing on workplace health and safety, laboratory safety, and quality, OLSS aims to minimize risks and potential incidents. A safer and more secure laboratory environment could translate to fewer disruptions, less downtime, and potentially lower costs related to accidents, thus indirectly supporting government efficiency. 
+
+  2.Improved Laboratory Quality, OLSS also aims to improve the quality and integrity of laboratory data and results.
 Reliable and high-quality data can lead to better informed regulatory decisions and potentially more efficient processes. 
--Potential Cost Savings, While not its primary goal, OLSS's focus on safety and quality could contribute to cost savings in the long run by minimizing accidents and improving the reliability of laboratory work. 
+
+  3.Potential Cost Savings, While not its primary goal, OLSS's focus on safety and quality could contribute to cost savings in the long run by minimizing accidents and improving the reliability of laboratory work. 
 </ol>
 
 **What drives innovation for a product?** 
