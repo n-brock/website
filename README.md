@@ -1,3 +1,5 @@
+![Nick Brock Logo](assets/images/favicon.ico)
+
 # NICK BROCK
   <a href="#">About</a> |
   <a href="#">ShapeYourDesign</a> |
