@@ -46,15 +46,16 @@ The office was established in 2017 to identify, investigate, and bring safety th
 
 **👨‍🔧 My role**
 
-To plan, conduct, and evaluate a Design Thinking session, later to assist in the creation of services and systems that will track the quality, safety, informatics, workforce, and response readiness. The project effort, ux activities involved for the Design Thinking and synthesizing of information gathered during a session held. 
+To plan a learning experiment, conduct, and evaluate the session using a series of evaluation methods. This would later assist in the identificaiton and creation of services and systems that would help with tracking the quality, safety, informatics, workforce, and response readiness. The project effort, design and analysis activities involved have been captured to showcase the design, evaluation methods pursued, and overall journey captured. 
 
-**Future benefits of the efficiency established to enhance laboratory safety and science**
 
-1.Reduced Incidents & Improved Efficiency, by focusing on workplace health and safety, laboratory safety, and quality, OLSS aims to minimize risks and potential incidents. A safer and more secure laboratory environment could translate to fewer disruptions, less downtime, and potentially lower costs related to accidents, thus indirectly supporting government efficiency. 
-2. Improved Laboratory Quality, OLSS also aims to improve the quality and integrity of laboratory data and results.
+*Future benefits of the efficiency established to enhance laboratory safety and science*
+<ol>
+-Reduced Incidents & Improved Efficiency, by focusing on workplace health and safety, laboratory safety, and quality, OLSS aims to minimize risks and potential incidents. A safer and more secure laboratory environment could translate to fewer disruptions, less downtime, and potentially lower costs related to accidents, thus indirectly supporting government efficiency. 
+-Improved Laboratory Quality, OLSS also aims to improve the quality and integrity of laboratory data and results.
 Reliable and high-quality data can lead to better informed regulatory decisions and potentially more efficient processes. 
-3. Potential Cost Savings, While not its primary goal, OLSS's focus on safety and quality could contribute to cost savings in the long run by minimizing accidents and improving the reliability of laboratory work. 
-
+-Potential Cost Savings, While not its primary goal, OLSS's focus on safety and quality could contribute to cost savings in the long run by minimizing accidents and improving the reliability of laboratory work. 
+</ol>
 
 **What drives innovation for a product?** 
 
