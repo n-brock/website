@@ -1,6 +1,7 @@
 Updated 4/25/2021
 
 ## United States Army, Artificial Intelligence Integration Center (AI2C)
+
 <p align="center">
   <img width="700" height="400" alt="So it begins" src="assets/images/SoItBeginsHelmsDeep.gif">
 </p>
